@@ -1,0 +1,18 @@
+---
+jupyter:
+  jupytext:
+    text_representation:
+      extension: .qmd
+      format_name: quarto
+      format_version: '1.0'
+      jupytext_version: 1.15.2
+  kernelspec:
+    display_name: EDS220
+    language: python
+    name: eds220-env
+---
+
+```{python}
+import pandas as pd
+```
+
